@@ -1,5 +1,11 @@
 <?php
 echo '这是index4';
-11111111111
-      111111111111
-      111111111111
+echo '这是index4';
+echo '这是index4';
+echo '这是index4';
+echo '这是index4';
+'哈哈哈哈';
+echo '这是index4';
+echo '这是index4';
+echo '这是index4';
+
